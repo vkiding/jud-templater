@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "dependencies": {
     "parse5": "^2.1.0",
-    "jud-styler": "^0.0.1",
+    "jud-styler": "^0.0.1"
   },
   "description": "jud templater",
   "main": "index.js",
