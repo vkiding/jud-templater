@@ -1,9 +1,18 @@
 {
   "name": "jud-templater",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
-    "parse5": "^2.1.0",
-    "jud-styler": "^0.0.1"
+    "jud-styler": "latest",
+    "parse5": "~2.1.0"
+  },
+  "devDependencies": {
+    "chai": "~3.4.1",
+    "gulp": "~3.9.0",
+    "gulp-jscs": "~3.0.2",
+    "gulp-mocha": "~2.2.0",
+    "sinon": "~1.17.2",
+    "sinon-chai": "~2.8.0",
+    "isparta": "~4.0.0"
   },
   "description": "jud templater",
   "main": "index.js",
